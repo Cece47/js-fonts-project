@@ -1,0 +1,21 @@
+body {
+  background-color:#b2477c;
+  color:white;
+}
+h1 {
+  font-family:Arial;
+  text-align:center;
+}
+#map {
+  list-style-type:none;
+  position:relative;
+  border:2px solid;
+  text-align:center;
+  padding-bottom:20px;
+  padding-top:20px;
+}
+li {
+  border-bottom:1px dashed;
+  margin-left:10px;
+  margin-right:30px;
+}
